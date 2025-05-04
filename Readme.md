@@ -1,8 +1,7 @@
 
 ![Untitled design](https://github.com/user-attachments/assets/b4f6ff97-05d7-4463-9d24-b17550c0f93b)
 
-
-Currently working on:<br><br>Quiz Master - V1 (Flask-based exam prep site) 📚<br><br>EmployWise (React Vite-based employee management SPA) 👥<br><br>🤝 Looking to collaborate on:<br><br>Full-stack web apps (React, Node.js, Flask)<br><br>AI/ML & decentralized applications<br><br>🌱 Currently learning:<br><br>Flask & Python Backend Development 🐍<br><br>Advanced system design & scalability<br><br>💬 Ask me about:<br><br>MERN, Flask, AI/ML, Cybersecurity & UI/UX<br><br>⚡ Fun fact:<br>I’ve built multiple portfolio websites and love designing sleek UIs! 🎨
+🤝 Looking to collaborate on:<br><br>Full-stack web apps (React, Node.js, Flask)<br><br>AI/ML & decentralized applications<br><br>🌱 Currently learning:<br><br>Flask & Python Backend Development 🐍<br><br>Advanced system design & scalability<br><br>💬 Ask me about:<br><br>MERN, Flask, AI/ML, Cybersecurity & UI/UX<br><br>⚡ Fun fact:<br>I’ve built multiple portfolio websites and love designing sleek UIs! 🎨
 
 
 ## 🌐 Socials:
